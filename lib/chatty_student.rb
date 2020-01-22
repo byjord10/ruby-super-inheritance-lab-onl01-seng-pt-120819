@@ -3,8 +3,8 @@ class ChattyStudent
   end
 
   def raise_hand
-    return str * 10 "Pick me!"
-  end 
+    10.times {"Pick me!"}
+  end
 
 
 end
