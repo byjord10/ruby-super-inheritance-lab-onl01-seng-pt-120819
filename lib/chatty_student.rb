@@ -1,5 +1,5 @@
 class ChattyStudent
-  def hello(greeting_phrase, chatty_phrase)
+  def hello(greeting_phrase)
     puts greeting_phrase  "Hey there!"
     " I'm so excited to learn stuff. How are you doing today? I'm okay, but I'm kind of tired.
     Did you watch The Walking Dead last night? You didn't?!
